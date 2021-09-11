@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PerryPerrz&show_icons=true&include_all_commits=true&theme=synthwave" />
 </a>
 <a href="https://github.com/PerryPerrz">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PerryPerrz&hide=Python&layout=compact&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PerryPerrz&layout=compact&theme=synthwave" />
 </a>
 </p>
 
