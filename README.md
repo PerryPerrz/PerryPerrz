@@ -1,6 +1,6 @@
-### Hi there, I'm Hugo aka [PerryPerrz] 👋
+### Hi there, I'm Hugo aka [PerryPerrz]🍆
 
-## I'm a french student in IT! 👨‍💻
+## I'm a wakanda student in IT! 👨‍💻
 - 🎓 I'm in third year of licence
 - 🌱 Learning everyday
 
