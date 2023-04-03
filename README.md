@@ -1,25 +1,9 @@
-### Hi there, I'm Hugo aka [PerryPerrz] 👋
-
-## I'm a french student in IT! 👨‍💻
-- 🎓 I'm in third year of licence
-- 🌱 Learning everyday
-
-### Connect with me : 
-[<img align="left" alt="PerryPerrz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<p align="center">
- 
-<a href="https://github.com/PerryPerrz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PerryPerrz&show_icons=true&include_all_commits=true&theme=synthwave" />
-</a>
-<a href="https://github.com/PerryPerrz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryPerrz&layout=compact&langs_count=10&hide=Hack&theme=synthwave" />
-</a>
-</p>
-
-[linkedin]: https://www.linkedin.com/in/hugo-iopeti-4aa642216/
-
-<!---
-PerryPerrz/PerryPerrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">
+ Hi there, I'm Hugo 👋
+ <br><br>
+ Currently in first year of master's degree in IT. 🌱
+ <br><br>
+ <a href="https://github.com/PerryPerrz">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryPerrz&layout=compact&hide_title=true&theme=transparent&langs_count=10&hide=Hack" />
+ </a>
+</h3>
