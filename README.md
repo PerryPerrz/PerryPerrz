@@ -4,6 +4,6 @@
  Currently in first year of master's degree in IT. 🌱
  <br><br>
  <a href="https://github.com/PerryPerrz">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryPerrz&layout=compact&hide_title=true&theme=transparent&langs_count=10&hide=Hack" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryPerrz&layout=compact&hide_title=true&theme=transparent&langs_count=10&hide=Hack,Lex,Shell,QMake,Assembly,Makefile,Prolog,Objective-C" />
  </a>
 </h3>
